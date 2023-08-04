@@ -1,7 +1,7 @@
 @import url(styles/header.css);
 :root {
     --cor: red; 
-    --fonte-tamanho: 30px;
+    --fonte-tamanho: 20px;
 }
 
 body {
